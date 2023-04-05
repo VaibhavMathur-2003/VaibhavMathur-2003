@@ -1,3 +1,5 @@
+![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
+
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I am a passionate full-stack developer from the Indian Institute of Technology, Goa, always eager to learn something new. With a strong commitment to excellence and a deep-rooted love for all things tech, I bring a wealth of experience, expertise, and innovation to every project.</h3>
 
