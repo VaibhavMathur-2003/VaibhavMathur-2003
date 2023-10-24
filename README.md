@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VaibhavMathur-2003](https://github.com/VaibhavMathur-2003)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, TypeScript, NodeJs, Express, MongoDB, C++**
+- 💬 Ask me about **Python, Pytorch, Tensorflow, AI, ML, HTML, CSS, JavaScript, React, TypeScript, NodeJs, Express, MongoDB, C++, PowerBi**
 
 - 📫 How to reach me **mathurvaibhav010@gmail.com**
 
