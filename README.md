@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Optimizing Web Technologies**
 
-- 👨‍💻 Portfolio [https://portfoliovaibhav10.netlify.app/](https://portfoliovaibhav10.netlify.app/)
+- 👨‍💻 Portfolio [https://portfoliovaibhav.vercel.app/](https://portfoliovaibhav.vercel.app)
 
 - 📫 How to reach me **mathurvaibhav010@gmail.com**
 
@@ -21,7 +21,7 @@
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=cpp,js,ts,python)
+![Languages](https://skillicons.dev/icons?i=js,ts,cpp,python)
 
 ### Front-end
 
@@ -29,7 +29,7 @@
 
 ### Back-end
 
-![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,socketio)
+![Back-end](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,prisma,socketio)
 
 ### Tools
 
