@@ -1,44 +1,35 @@
-![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
+## Hey 👋, I'm [Vaibhav Mathur](https://github.com/VaibhavMathur-2003)
 
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">I'm a B.Tech undergrad in Computer Science who loves diving into the world of technology! With industry-level experience in full-stack web development, I enjoy creating sleek, efficient web applications.🚀✨</h3>
+### Full Stack Developer | Exploring Finance with AI 📈🤖
 
-- 🌱 I’m currently learning **Optimizing Web Technologies**
+I'm a passionate full stack developer skilled in the **MERN** stack, **Next.js**, **GraphQL**, and **PostgreSQL**.  
+Certified in **LangChain**, **AWS Essentials**, **Transformers**, **BERT**, and **MCP**.  
+Currently exploring the intersection of **deep learning**, **mathematics**, and **finance**.
 
-- 👨‍💻 Portfolio [https://portfoliovaibhav.vercel.app/](https://portfoliovaibhav.vercel.app)
+---
 
-- 📫 How to reach me **mathurvaibhav010@gmail.com**
+### 🚀 What I'm Up To
 
-- 📄 My Resume [Resume](https://drive.google.com/drive/folders/1sucW3IVji84K4OPK9nlTlGznj13_lrNH)
+- 📚 Learning applications of **mathematics and deep learning in finance**
+- 💡 Working on **LLMs**, **transformer-based models**, and **LangChain-powered AI systems**
+- 🛠️ Building projects with **Next.js**, **GraphQL**, **PostgreSQL**, and **MERN**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/VibeBhav_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav38531681" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav-mathur-a63940231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-mathur-a63940231" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhav10_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav10_03" height="30" width="40" /></a>
-</p>
+---
 
+### 💬 Let's Collaborate
+- 🧠 Excited to brainstorm ideas related to **machine learning**, **financial modeling**, and **systems designs**
 
-### Languages
+---
 
-![Languages](https://skillicons.dev/icons?i=js,ts,cpp,python)
+### 📫 Reach Me At
 
-### Front-end
+- ✉️ Email: [mathurvaibhav010@gmail.com](mailto:mathurvaibhav010@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vaibhav-mathur-a63940231](https://www.linkedin.com/in/vaibhav-mathur-a63940231/)
+- 💻 GitHub: [github.com/VaibhavMathur-2003](https://github.com/VaibhavMathur-2003)
 
-![Front-end](https://skillicons.dev/icons?i=react,nextjs,redux,html,tailwindcss)
+---
 
-### Back-end
+## Let's Connect 🌐
 
-![Back-end](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,prisma,socketio)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,npm,vscode,vite,postman,vercel)
-
-### Have Used
-
-![Used](https://skillicons.dev/icons?i=aws,selenium)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-mathur-a63940231/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhavMathur-2003)
