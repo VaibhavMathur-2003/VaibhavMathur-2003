@@ -1,23 +1,36 @@
-## Hey 👋, I'm [Vaibhav Mathur](https://github.com/VaibhavMathur-2003)
+## Hey 👋, I'm Vaibhav Mathur
 
-### Full Stack Developer | Exploring Finance with AI 📈🤖
+### Golang Developer | AI Engineer
 
-I'm a passionate full stack developer skilled in the **MERN** stack, **Next.js**, **GraphQL**, and **PostgreSQL**.  
-Certified in **LangChain**, **AWS Essentials**, **Transformers**, **BERT**, and **MCP**.  
-Currently exploring the intersection of **deep learning**, **mathematics**, and **finance**.
+I build high-performance backend systems in Go and production-ready AI applications using modern LLM workflows.
 
----
-
-### 🚀 What I'm Up To
-
-- 📚 Learning applications of **mathematics and deep learning in finance**
-- 💡 Working on **LLMs**, **transformer-based models**, and **LangChain-powered AI systems**
-- 🛠️ Building projects with **Next.js**, **GraphQL**, **PostgreSQL**, and **MERN**
+My focus is on designing scalable services, distributed systems, and real-world AI solutions—especially Retrieval-Augmented Generation (RAG) and LLM-powered applications.
 
 ---
 
-### 💬 Let's Collaborate
-- 🧠 Excited to brainstorm ideas related to **machine learning**, **financial modeling**, and **systems designs**
+### 🚀 What I'm Working On
+
+* ⚙️ Building backend systems in **Go** with a focus on performance and scalability
+* 🤖 Developing **LLM applications**, RAG pipelines, and AI systems
+* ☁️ Deploying and optimizing systems using **Docker** and **AWS**
+
+---
+
+### 🧠 Technical Focus
+
+* **Languages:** Go
+* **Backend & Systems:** gRPC, distributed systems, API design
+* **Databases:** PostgreSQL
+* **AI/ML:** LLMs, RAG, LangGraph
+* **Infrastructure:** Docker, AWS
+
+---
+
+### 💬 Open to Collaborate On
+
+* Backend systems in Go
+* AI infrastructure and LLM applications
+* Scalable system design
 
 ---
 
